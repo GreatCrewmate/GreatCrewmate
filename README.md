@@ -1,5 +1,5 @@
 - 👋 Hi, I’m GCrew
-- 🎙 I speak Russian, English
+- 🎙 I speak Russian, English, French, Brazilian Portuguese
 - 🔎 I’m interested in FNF modding
 - 📡 My Discord: GCrew#3853
 
