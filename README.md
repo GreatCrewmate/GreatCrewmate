@@ -1,7 +1,7 @@
 - 👋 Hi, I’m GCrew
 - 🎙 I speak Russian, English, French, Brazilian Portuguese
 - 🔎 I’m interested in FNF modding
-- 📡 My Discord: GCrew#3853
+- 📡 My Discord: GCrew#9511
 
 <!---
 GreatCrewmate/GreatCrewmate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
