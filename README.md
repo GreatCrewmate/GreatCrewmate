@@ -1,6 +1,6 @@
 # About me
-- 👋 Hi, I’m GCrew
-- 🎙 I can speak :ru:, :gb:, :es: (a little)
+- 👋 Hi, here's GCrew
+- 🎙 I can speak :ru:, :gb:
 - 🔎 Coding for FNF mods and other stuff
 
 ## Hell nah, too sus
