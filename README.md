@@ -4,4 +4,4 @@
 - 🔎 Coding for FNF mods and other stuff
 
 ## Hell nah, too sus
-![GCrew Fornite fr](ninety.png)
+![GCrew Fortnite fr](ninety.png)
